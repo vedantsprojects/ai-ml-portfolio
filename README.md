@@ -65,13 +65,5 @@ python neural-engine-scratch/main.py --config configs/baseline.yml
 
 Distributed under the **MIT License** — because innovation scales when friction doesn’t.
 
-<p align="center"> <sub>© 2025 Vedant Sharma • Delivering future‑proof intelligence, one commit at a time.</sub> </p> ```
-Deployment Notes
-GIF Asset The embedded animation references a permanent GIPHY URL.
-   Preferred: download the GIF, save it to docs/assets/ai-ml.gif, and update the <img> src path for full offline durability.
+<p align="center"> <sub>© 2025 Vedant Sharma • Delivering future‑proof intelligence, one commit at a time.</sub> </p>
 
-Badges & Analytics Augment the header with Shields.io badges (build, license, code‑coverage) and GitHub traffic analytics when your CI pipeline is live.
-
-CONTRIBUTING & CODE_OF_CONDUCT Create placeholder files now to pre‑empt future community engagement and demonstrate governance maturity.
-
-Feel free to iterate—this README is engineered for modular enhancements as your portfolio scales.
