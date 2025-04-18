@@ -45,7 +45,9 @@ pip install -r neural-engine-scratch/requirements.txt
 # 3 – execute a reference training run
 python neural-engine-scratch/main.py --config configs/baseline.yml
 
-5. Roadmap (Q3 → Q4 FY‑25)
+---
+
+## 5. Roadmap (Q3 → Q4 FY‑25)
 
 Priority	Milestone	KPI
 P0	Containerized MLOps pipeline (Docker + GH Actions)	< 10 min CI round‑trip
@@ -55,7 +57,9 @@ P3	Cross‑modal extension (vision / audio)	≥ 95 % unit‑test coverage
 6. Contributing
 We operate under a clean‑code, test‑driven mandate. Pull requests should align with the contribution charter and pass the automated compliance gate (lint + unit + security scan).
 
-7. License
+---
+
+## 7. License
 Distributed under the MIT License—because innovation scales when friction doesn’t.
 
 <p align="center"> <sub>© 2025 Vedant Sharma • Delivering future‑proof intelligence, one commit at a time.</sub> </p> ```
