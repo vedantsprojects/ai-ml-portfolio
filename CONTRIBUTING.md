@@ -61,8 +61,9 @@ Use conventional commit messages:
 
 ```bash
 git commit -m "feat: add custom activation to neural-engine"
-Types: feat, fix, docs, test, refactor, perf, chore
 ```
+Types: feat, fix, docs, test, refactor, perf, chore
+
 ----
 
  🚀 Pull Request Process
