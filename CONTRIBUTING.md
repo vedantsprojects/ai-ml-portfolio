@@ -94,15 +94,3 @@ We deeply value your contribution to the ai‑ml‑portfolio project. Every PR, 
 
 Happy contributing! 🚀
 ~ Vedant Sharma
-
-----
-
-### 📌 How to Add It
-
-1. Create a file in your repo root named `CONTRIBUTING.md`
-2. Paste the above content
-3. Commit and push:
-   ```bash
-   git add CONTRIBUTING.md
-   git commit -m "docs: add contributing guidelines"
-   git push origin main
