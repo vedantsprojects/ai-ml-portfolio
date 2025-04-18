@@ -34,33 +34,34 @@ ai-ml-portfolio/ │ ├─ neural-engine-scratch/ ← Flagship vanilla‑Python
 
 ## 4. Quick‑Start Guide
 ```bash
-# 1 – clone the umbrella repo
+# 1 – Clone the umbrella repo
 git clone https://github.com/vedantsprojects/ai-ml-portfolio.git
 cd ai-ml-portfolio
 
-# 2 – bootstrap a virtual environment (recommended)
+# 2 – Bootstrap a virtual environment (recommended)
 python -m venv .venv && source .venv/bin/activate
 pip install -r neural-engine-scratch/requirements.txt
 
-# 3 – execute a reference training run
+# 3 – Execute a reference training run
 python neural-engine-scratch/main.py --config configs/baseline.yml
 
 ---
 
 ## 5. Roadmap (Q3 → Q4 FY‑25)
 
-Priority	Milestone	KPI
-P0	Containerized MLOps pipeline (Docker + GH Actions)	< 10 min CI round‑trip
-P1	GPU‑accelerated backend (PyTorch / JAX)	10× throughput vs baseline
-P2	Model registry + experiment tracking (MLflow)	Reproducibility score ≥ 0.9
-P3	Cross‑modal extension (vision / audio)	≥ 95 % unit‑test coverage
-6. Contributing
-We operate under a clean‑code, test‑driven mandate. Pull requests should align with the contribution charter and pass the automated compliance gate (lint + unit + security scan).
+| Priority | Milestone                                         | KPI                            |
+|----------|---------------------------------------------------|--------------------------------|
+| P0       | Containerized MLOps pipeline (Docker + GH Actions) | < 10 min CI round-trip         |
+| P1       | GPU-accelerated backend (PyTorch / JAX)            | 10× throughput vs baseline     |
+| P2       | Model registry + experiment tracking (MLflow)      | Reproducibility score ≥ 0.9    |
+| P3       | Cross-modal extension (vision / audio)             | ≥ 95% unit-test coverage       |
+
 
 ---
 
 ## 7. License
-Distributed under the MIT License—because innovation scales when friction doesn’t.
+
+Distributed under the **MIT License** — because innovation scales when friction doesn’t.
 
 <p align="center"> <sub>© 2025 Vedant Sharma • Delivering future‑proof intelligence, one commit at a time.</sub> </p> ```
 Deployment Notes
