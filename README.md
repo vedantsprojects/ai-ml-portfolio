@@ -32,7 +32,22 @@ ai-ml-portfolio/ │ ├─ neural-engine-scratch/ ← Flagship vanilla‑Python
 
 ---
 
----
+## 4. Quick‑Start Guide
+```bash
+# 1 – Clone the umbrella repo
+git clone https://github.com/vedantsprojects/ai-ml-portfolio.git
+cd ai-ml-portfolio
+
+# 2 – Bootstrap a virtual environment (recommended)
+python -m venv .venv && source .venv/bin/activate
+pip install -r neural-engine-scratch/requirements.txt
+
+# 3 – Execute a reference training run
+python neural-engine-scratch/main.py --config configs/baseline.yml
+
+```
+
+--- --- ----
 
 ## 5. Roadmap (Q3 → Q4 FY‑25)
 
@@ -60,17 +75,3 @@ Badges & Analytics Augment the header with Shields.io badges (build, license, 
 CONTRIBUTING & CODE_OF_CONDUCT Create placeholder files now to pre‑empt future community engagement and demonstrate governance maturity.
 
 Feel free to iterate—this README is engineered for modular enhancements as your portfolio scales.
-
-## 4. Quick‑Start Guide
-```bash
-# 1 – Clone the umbrella repo
-git clone https://github.com/vedantsprojects/ai-ml-portfolio.git
-cd ai-ml-portfolio
-
-# 2 – Bootstrap a virtual environment (recommended)
-python -m venv .venv && source .venv/bin/activate
-pip install -r neural-engine-scratch/requirements.txt
-
-# 3 – Execute a reference training run
-python neural-engine-scratch/main.py --config configs/baseline.yml
-
