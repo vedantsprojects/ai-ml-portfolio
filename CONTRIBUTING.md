@@ -66,16 +66,16 @@ Types: feat, fix, docs, test, refactor, perf, chore
 
 ----
 
- 🚀## Pull Request Process
+### 🚀 Pull Request Process
 
-Push your branch:
+# 1. Push your branch:
 
 ```bash
 
 git push origin feature/your-feature-name
 Open a pull request (PR) on GitHub
-
-In your PR, include:
+```
+# 2. In your PR, include:
 
 A descriptive title and summary of what you changed
 
@@ -83,15 +83,15 @@ Any dependencies added
 
 Screenshots or logs if relevant
 
-Wait for review. We aim to respond within 3 business days.
-```
+# 3. Wait for review. We aim to respond within 3 business days.
+
 ----
 
-📋## Code of Conduct
+## 📋 Code of Conduct
 
 Please adhere to the Contributor Covenant in all interactions.
 
-🙏## Acknowledgement
+## 🙏 Acknowledgement
 
 We deeply value your contribution to the ai‑ml‑portfolio project. Every PR, issue, and suggestion helps make this repository a robust learning and deployment ecosystem for AI practitioners.
 
