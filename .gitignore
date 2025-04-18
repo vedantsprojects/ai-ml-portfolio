@@ -1,0 +1,13 @@
+# --- Virtual Envs ---
+.venv/
+.venv_*/
+
+# --- Python artefacts ---
+__pycache__/
+build/
+*.egg-info/
+
+# --- IDE / OS clutter ---
+.vscode/
+.idea/
+*.swp
