@@ -1,4 +1,4 @@
-# Contributing to ai‑ml‑portfolio
+# Contributing to AI/ML Portfolio
 
 Thank you for your interest in contributing to **ai‑ml‑portfolio** — a curated repository of machine learning and artificial intelligence projects by Vedant Sharma.
 
