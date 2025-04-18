@@ -68,14 +68,14 @@ Types: feat, fix, docs, test, refactor, perf, chore
 
 ### 🚀 Pull Request Process
 
-# 1. Push your branch:
+#### 1. Push your branch:
 
 ```bash
 
 git push origin feature/your-feature-name
 Open a pull request (PR) on GitHub
 ```
-# 2. In your PR, include:
+#### 2. In your PR, include:
 
 A descriptive title and summary of what you changed
 
@@ -83,7 +83,7 @@ Any dependencies added
 
 Screenshots or logs if relevant
 
-# 3. Wait for review. We aim to respond within 3 business days.
+#### 3. Wait for review. We aim to respond within 3 business days.
 
 ----
 
