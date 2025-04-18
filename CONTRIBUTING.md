@@ -73,15 +73,16 @@ Types: feat, fix, docs, test, refactor, perf, chore
 ```bash
 
 git push origin feature/your-feature-name
-Open a pull request (PR) on GitHub
 ```
-#### 2. In your PR, include:
+#### 2. Open a pull request (PR) on GitHub
 
-A descriptive title and summary of what you changed
+In your PR, include:
 
-Any dependencies added
+- A descriptive title and summary of what you changed
 
-Screenshots or logs if relevant
+- Any dependencies added
+
+- Screenshots or logs if relevant
 
 #### 3. Wait for review. We aim to respond within 3 business days.
 
