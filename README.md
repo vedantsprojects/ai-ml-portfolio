@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="AI innovation in motion" width="600"/>
 </p>
 
-# **ai‑ml‑portfolio**  
+# **AI/ML Portfolio**  
 _Enterprise‑grade showcase of scalable, high‑impact Machine Learning and Artificial Intelligence assets_
 
 ---
