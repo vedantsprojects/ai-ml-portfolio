@@ -16,7 +16,7 @@ The objective is to deliver **value‑accretive, data‑driven capabilities** th
 
 ## 2. Portfolio Architecture
 
-
+ai-ml-portfolio/ │ ├─ neural-engine-scratch/ ← Flagship vanilla‑Python neural‑network core ├─ docs/ ← White‑papers, architecture decks, and workflow charts ├─ datasets/ ← Curated, rights‑cleared sample corpora └─ scripts/ ← Automation, CI/CD glue‑code, benchmarking harnesses
 
 ---
 
@@ -44,3 +44,27 @@ pip install -r neural-engine-scratch/requirements.txt
 
 # 3 – execute a reference training run
 python neural-engine-scratch/main.py --config configs/baseline.yml
+
+5. Roadmap (Q3 → Q4 FY‑25)
+
+Priority	Milestone	KPI
+P0	Containerized MLOps pipeline (Docker + GH Actions)	< 10 min CI round‑trip
+P1	GPU‑accelerated backend (PyTorch / JAX)	10× throughput vs baseline
+P2	Model registry + experiment tracking (MLflow)	Reproducibility score ≥ 0.9
+P3	Cross‑modal extension (vision / audio)	≥ 95 % unit‑test coverage
+6. Contributing
+We operate under a clean‑code, test‑driven mandate. Pull requests should align with the contribution charter and pass the automated compliance gate (lint + unit + security scan).
+
+7. License
+Distributed under the MIT License—because innovation scales when friction doesn’t.
+
+<p align="center"> <sub>© 2025 Vedant Sharma • Delivering future‑proof intelligence, one commit at a time.</sub> </p> ```
+Deployment Notes
+GIF Asset The embedded animation references a permanent GIPHY URL.
+   Preferred: download the GIF, save it to docs/assets/ai-ml.gif, and update the <img> src path for full offline durability.
+
+Badges & Analytics Augment the header with Shields.io badges (build, license, code‑coverage) and GitHub traffic analytics when your CI pipeline is live.
+
+CONTRIBUTING & CODE_OF_CONDUCT Create placeholder files now to pre‑empt future community engagement and demonstrate governance maturity.
+
+Feel free to iterate—this README is engineered for modular enhancements as your portfolio scales.
