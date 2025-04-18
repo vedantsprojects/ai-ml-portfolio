@@ -59,7 +59,15 @@ python neural-engine-scratch/main.py --config configs/baseline.yml
 | P3       | Cross-modal extension (vision / audio)             | ≥ 95% unit-test coverage       |
 
 
----
+----
+## 6. Contributing
+
+We operate under a **clean-code, test-driven mandate**.  
+Pull requests should align with our contribution charter and pass the automated compliance gate (lint + unit + security scan).  
+
+📌 Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines before submitting a pull request.
+
+----
 
 ## 7. License
 
