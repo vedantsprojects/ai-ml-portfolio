@@ -16,7 +16,10 @@ The objective is to deliver **value‑accretive, data‑driven capabilities** th
 
 ## 2. Portfolio Architecture
 
-ai-ml-portfolio/ │ ├─ neural-engine-scratch/ ← Flagship vanilla‑Python neural‑network core ├─ docs/ ← White‑papers, architecture decks, and workflow charts ├─ datasets/ ← Curated, rights‑cleared sample corpora └─ scripts/ ← Automation, CI/CD glue‑code, benchmarking harnesses
+ai-ml-portfolio/ │ 
+├─ neural-engine-scratch/ ← Flagship vanilla‑Python neural‑network core 
+├─ docs/ ← White‑papers, architecture decks, and workflow charts 
+├─ datasets/ ← Curated, rights‑cleared sample corpora                 └─ scripts/ ← Automation, CI/CD glue‑code, benchmarking harnesses
 
 ---
 
